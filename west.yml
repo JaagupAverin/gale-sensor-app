@@ -12,7 +12,7 @@ manifest:
     revision: main
 
   projects:
-    - name: gale-shared
+    - name: gale-common
       path: shared
     - name: gale-zephyr
       path: zephyr
