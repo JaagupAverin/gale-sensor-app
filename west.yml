@@ -10,7 +10,7 @@ manifest:
 
   projects:
     - name: gale-shared
-      path: shared
+      path: gale_shared
       remote: origin
       revision: main
       import: true
