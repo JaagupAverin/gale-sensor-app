@@ -2,7 +2,7 @@ manifest:
   version: "1.2"
 
   self:
-    path: sensor_app
+    path: gale_sensor_app
 
   remotes:
     - name: origin
