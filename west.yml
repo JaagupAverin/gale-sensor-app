@@ -7,11 +7,10 @@ manifest:
   remotes:
     - name: origin
       url-base: https://github.com/JaagupAverin
-  defaults:
-    remote: origin
-    revision: main
 
   projects:
     - name: gale-common
       path: shared
+      remote: origin
+      revision: main
       import: true
