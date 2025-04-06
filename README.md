@@ -1,3 +1,3 @@
-Gale sensor application.
+Sensor application for the Zephyr demo "Gale".
 
-See the [common repository](https://github.com/JaagupAverin/gale-common) for details.
+See the [Gale manifest](https://github.com/JaagupAverin/gale-manifest) for details.
