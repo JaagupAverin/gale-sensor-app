@@ -9,7 +9,7 @@ manifest:
       url-base: https://github.com/JaagupAverin
 
   projects:
-    - name: gale-common
+    - name: gale-shared
       path: shared
       remote: origin
       revision: main
