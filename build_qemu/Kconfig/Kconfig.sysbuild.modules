@@ -1,3 +1,0 @@
-config ZEPHYR_HAL_ESPRESSIF_MODULE
-   bool
-   default y
