@@ -1,0 +1,5 @@
+west:
+  command: /home/jaagup/projects/gale/.venv/bin/west build -d /home/jaagup/projects/gale/sensor_app/build_qemu
+    -t run
+  topdir: /home/jaagup/projects/gale
+  version: 1.3.0

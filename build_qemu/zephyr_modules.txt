@@ -1,0 +1,1 @@
+"hal_espressif":"/home/jaagup/projects/gale/modules/hal/espressif":"/home/jaagup/projects/gale/modules/hal/espressif/zephyr"
